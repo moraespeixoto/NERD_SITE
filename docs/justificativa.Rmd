@@ -1,0 +1,25 @@
+---
+title: "Justificativa"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+##  Por que o NERD
+
+
+<br/><br/> \hfill\break 
+No Brasil existe uma considerável escassez de informações empíricas sobre o desempenho e funcionamento das instituições políticas municipais e das interações com o desenvolvimento socioeconômico. O Núcleo de Estudos em Representação e Democracia – NERD, procura contribuir para solucionar esse déficit. A maioria dos trabalhos que abordam o tema da política municipal, analisa as capitais estaduais ou municípios que introduziram novas formas de participação, como o orçamento participativo e os conselhos municipais. 
+
+A Constituição de 1988 se orienta claramente por um princípio descentralizador e municipalista. No Capítulo IV (“Dos Municípios”), artigo 29 se estabelece que “o município reger-se-á por lei orgânica, votada em dois turnos, com interstício mínimo de dez dias, e aprovada por dois terços da Câmara Municipal (...)”. Já no artigo 30 do mesmo capítulo se estabelecem as competências dos municípios, em que se destacam as áreas de educação pré-escolar, ensino fundamental, saúde e saneamento, podendo ser solicitado para o cumprimento dessas funções, a cooperação técnica e financeira do Estado e da União. Incumbe também aos governos municipais instituir e arrecadar os tributos correspondentes a suas competências, assim como a alocação das receitas.
+
+Junto com o incremento da autonomia municipal e de suas atribuições nas áreas mencionadas, a Constituição também valorizou os legislativos municipais, outorgando-lhes a possibilidade de introduzir emendas ao orçamento municipal, reforçando o poder político das Câmaras de Vereadores. Além dessa nova potestade, a relevância desses órgãos radica não somente na visibilidade dos temas sobre os que devem legislar muito próximos da vida cotidiana dos cidadãos, mas também, no vínculo direto de seus membros com as bases eleitorais. Porém, vários trabalhos têm destacado a hipertrofia dos Executivos nos municípios pequenos e médios, em relação aos Legislativos e Judiciários (Abrucio, 1994; Nunes, 1991).
+
+Concomitantemente ao aumento das responsabilidades e atribuições dos municípios, houve também, a partir da aprovação da nova Constituição, um aumento das fontes tributárias e um repasse automático de receitas por parte dos Estados e do Governo Federal. Com efeito, as principais consequências da reforma constitucional foram um aumento substancial do poder tributário dos governos subnacionais nas suas respectivas jurisdições e um incremento das transferências da União para Estados e municípios (Abrucio e Couto, 1996; Giambiagi, 1991). 
+
+Os dados censitários a partir de 1991 indicaram um crescimento populacional mais acelerado dos municípios de pequeno, médio e grande porte. Ressalta-se que em alguns municípios de grande porte tal perspectiva se manifestava com um ritmo de crescimento populacional superior ao das Regiões Metropolitanas na década de 1970. Nestes termos, Baeninger (1999: p.538), aponta para o fato de que “os municípios não-metropolitanos registraram um incremento relativo de 22%, no período 1970-1980, e de 6,7% no de 1991-1996”. Assim, pode-se perceber que o processo de interiorização que já vinha ocorrendo no Brasil em décadas anteriores, continuou sendo observado, agudizando-se a partir dos anos 2000.
+
+Com base nestas considerações mais gerais propõe-se um núcleo de pesquisa focalizado nas questões relativas à política e ao desenvolvimento socioeconômico. As atividades do núcleo podem ser agrupadas em dois grandes eixos analíticos. O primeiro refere-se ao funcionamento das instituições políticas (eleições, administração pública, comportamento parlamentar e relação executivo-legislativo). O segundo eixo concerne ao desenvolvimento socioeconômico (atividades produtivas, estrutura social, mercado de trabalho e perfil social dos municípios). É objetivo do NERD, nos seus projetos de pesquisa e nas suas atividades em geral, analisar as possíveis relações entre ambos eixos temáticos. Inclui-se nesta proposta o intuito de contribuir com produção de informação e conhecimento científico relevante sobre o desenvolvimento político, econômico e social dos municípios brasileiros, assim como estudos que abordem o desempenho político institucional de outras regiões e municípios do país, possibilitando ainda a realização de análises comparadas, outra dos objetivos do NERD.
