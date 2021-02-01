@@ -1,0 +1,18 @@
+name: "NERD_SITE2"
+title: "My Website"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "O NERD"
+      href: index.html
+    - text: "Objetivos"
+      href: about.html
+    - text: "Justificativa"
+      href: justificativa.html
+    - text: "Projetos"
+      href: projetos.html
+    - text: "Membros"
+      href: membros.html
+output: distill::distill_article

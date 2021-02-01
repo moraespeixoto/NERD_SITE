@@ -1,0 +1,26 @@
+---
+title: "Objetivos"
+site: distill::distill_website
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+<div style="text-align: justify"> 
+
+Como foi definido, o NERD, tem por objetivo promover pesquisas sobre a evolução política e eleitoral no nível municipal, assim como a relação da mesma com o desenvolvimento. O NERD tem o objetivo de abranger estudos sobre política em todo o país, visando estudos e análises comparadas.
+
+Os objetivos específicos do núcleo a destacar são:
+
+- Difusão dos resultados das pesquisas para o âmbito acadêmico e extra-acadêmico (encontros, seminários, mini-cursos, etc.). 
+
+- Promover a participação de alunos de graduação (iniciação científica) e pós-graduação nas atividades do núcleo.
+
+- Organizar e compartilhar bases de dados destinados a subsidiar pesquisas acadêmicas e a demandas de instituições públicas e privadas, formadores de opinião e público em geral.
+
+- Participar em editais de financiamento de pesquisas e atividades de extensão.
+
+

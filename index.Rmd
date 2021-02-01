@@ -1,0 +1,57 @@
+---
+title: "NERD"
+description: |
+  Nucleo de Estudos em Representacao e Democracia
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+<div style="text-align: justify"> 
+
+
+O Núcleo de Estudos em Representação e Democracia – NERD, tem por objetivo promover pesquisas sobre a evolução política e eleitoral nos níveis subnacionais, principalmente no nível municipal, assim como a relação da mesma com o desenvolvimento.
+
+O grupo de pesquisa aborda a interseção entre três grandes dimensões da análise de sistemas políticos democráticos: governos, comportamento eleitoral e partidos políticos. A partir dos estudos sobre comportamento dos eleitores pretende-se integrar os achados empíricos às teorias sobre estratégias dos partidos políticos nas administrações públicas subnacionais, assim como interagir com análises sobre reeleição de prefeitos, análises que abordam ideologia partidária e gastos públicos no Brasil.
+
+O NERD tem o objetivo de abranger estudos sobre política nacional visando estudos e análises comparadas. As atividades do NERD procuram atender a demanda de informações e análises no Brasil, tendo em conta que existe uma considerável escassez de informações empíricas sobre as características, funcionamento e desempenho das instituições políticas no nível municipal, assim como da interação da dimensão política com o desenvolvimento socioeconômico. 
+
+
+ ![](nerd_diagrama_venn.png)
+ 
+ 
+ 
+
+
+ 
+O núcleo teve início da suas atividades com o projeto de pesquisa "Competição Eleitoral nos Municípios Brasileiros", em 2011, deu sequencia com o projeto CNPq “Poder Local, Partidos políticos e eleições municipais no Brasil pós 1988”, e atualmente é financiado pela FAPERJ com  projeto “Petro rendas e política local:
+competição eleitoral e políticas públicas em municípios produtores de petróleo”.
+
+ - Projeto FAPERJ E-26/111-677/2011."Competição Eleitoral nos Municípios Brasileiros”
+ - Projeto CNPq: “Poder local, Partidos políticos e eleições municipais no Brasil pós 1988”.
+ - Projeto FAPERJ APQ3 E-26/112.214/2013. “Financiamento de campanhas eleitorais no Brasil”.
+ - Projeto FAPERJ - E-26/210-545/2019. “Petro rendas e política local: competição eleitoral e políticas públicas em municípios produtores de petróleo”.
+ 
+
+## Localização
+<br/><br/> \hfill\break \hfill\break
+Universidade Estadual do Norte Fluminense Darcy Ribeiro <br/> \hfill\break
+Centro de Ciências do Homem – CCH – Sala 108 - B <br/> \hfill\break
+Av. Alberto Lamego, 2000 - Parque Califórnia <br/> \hfill\break
+Campos dos Goytacazes - RJ <br/> \hfill\break
+CEP: 28013-602 <br/> \hfill\break
+Tel: 22 27397040 <br/> \hfill\break
+
+
+
+
