@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div style="text-align: justify"> 
 
-Como foi definido, o NERD, tem por objetivo promover pesquisas sobre a evolução política e eleitoral no nível municipal, assim como a relação da mesma com o desenvolvimento. O NERD tem o objetivo de abranger estudos sobre política em todo o país, visando estudos e análises comparadas.
+O NERD, tem por objetivo promover pesquisas sobre a evolução política e eleitoral no nível municipal, assim como a relação da mesma com o desenvolvimento. O NERD tem o objetivo de abranger estudos sobre política em todo o país, visando estudos e análises comparadas.
 
-Os objetivos específicos do núcleo a destacar são:
+Os objetivos específicos do núcleo são:
 
 - Difusão dos resultados das pesquisas para o âmbito acadêmico e extra-acadêmico (encontros, seminários, mini-cursos, etc.). 
 
@@ -23,4 +23,4 @@ Os objetivos específicos do núcleo a destacar são:
 
 - Participar em editais de financiamento de pesquisas e atividades de extensão.
 
-
+</div>

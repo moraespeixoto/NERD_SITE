@@ -3,10 +3,6 @@ title: "Projetos"
 site: distill::distill_website
 ---
 
-
-
-
-
 O núcleo teve início da suas atividades com o projeto de pesquisa "Competição Eleitoral nos Municípios Brasileiros", em 2011, deu sequencia com o projeto CNPq “Poder Local, Partidos políticos e eleições municipais no Brasil pós 1988”, e atualmente é financiado pela FAPERJ com  projeto “Petro rendas e política local:
 competição eleitoral e políticas públicas em municípios produtores de petróleo”.
 

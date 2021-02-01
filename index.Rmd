@@ -1,7 +1,7 @@
 ---
 title: "NERD"
 description: |
-  Nucleo de Estudos em Representacao e Democracia
+  Núcleo de Estudos em Representação e Democracia
 site: distill::distill_website
 ---
 
@@ -44,14 +44,14 @@ competição eleitoral e políticas públicas em municípios produtores de petr�
  
 
 ## Localização
-<br/><br/> \hfill\break \hfill\break
-Universidade Estadual do Norte Fluminense Darcy Ribeiro <br/> \hfill\break
-Centro de Ciências do Homem – CCH – Sala 108 - B <br/> \hfill\break
-Av. Alberto Lamego, 2000 - Parque Califórnia <br/> \hfill\break
-Campos dos Goytacazes - RJ <br/> \hfill\break
-CEP: 28013-602 <br/> \hfill\break
-Tel: 22 27397040 <br/> \hfill\break
+<br/><br/> 
+Universidade Estadual do Norte Fluminense Darcy Ribeiro <br/> 
+Centro de Ciências do Homem – CCH – Sala 108 - B <br/> 
+Av. Alberto Lamego, 2000 - Parque Califórnia <br/> 
+Campos dos Goytacazes - RJ <br/> 
+CEP: 28013-602 <br/> 
+Tel: 22 27397040 <br/> 
 
 
-
+</div>
 

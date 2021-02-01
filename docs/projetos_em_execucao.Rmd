@@ -1,0 +1,19 @@
+---
+title: "Projetos em Execução"
+site: distill::distill_website
+---
+<div style="text-align: justify"> 
+
+**Economia social da (In)tolerância política: como avaliações da economia, mobilidade social, escolaridade, gênero e religião impactam as atitudes democráticas no Brasil contemporâneo**
+
+Este projeto visa produzir análises acerca das avaliações e percepções econômicas e seus impactos sobre um conjunto de atitudes e comportamentos individuais conhecidos por tolerância política ao longo dos últimos quatro ciclos eleitorais. Além disso, busca compreender como as variáveis sociológicas clássicas tais como religião, escolaridade, renda e sexo se relacionam aos aspectos tolerância e apoio à democracia. Dessa forma, procura aferir como essas variáveis interferem na opinião pública sobre a democracia, investigando e diferenciando o comportamento de grupos específicos em relação as organizações democráticas.
+
+**Petro rendas e política local: competição eleitoral e políticas públicas em municípios produtores de petróleo**
+
+Este projeto de pesquisa tem como objetivo a investigação de padrões partidários de gastos públicos em municípios petro-rentistas em dois contextos econômicos: de abundancias e crises severas de recursos. Propõem-se construir indicadores e testar modelos econométricos multivariados no intuito de explorar as características políticas dos executivos municipais que estão associadas à variação de padrões de comportamentos orçamentários na administração de recursos indenizatórios. Buscar-se-á comparar unidades da federação com características sociodemográficas similares no intuito de testar hipóteses os efeitos dos recursos dos royalties e participações especiais nos padrões de gastos sociais e com maquina pública dos partidos políticos.
+
+**Poder Local, Partidos Políticos e Eleições Municipais no Brasil Pós-88 **
+
+Este projeto visa produzir análises sistemáticas sobre as dinâmicas político-eleitorais nos municípios brasileiros no pós-88. A questão analítica que se pretende enfrentar refere-se aos possíveis fatores sociodemográficos, políticos e econômicos dos municípios que estão associados às características do poder local no Brasil. Buscar-se-á demonstrar, por fim, se e como a institucionalização do sistema partidário pode ser explicada por meio das características sociodemográficas dos municípios e os impactos das instituições das regras eleitorais.
+
+</div>
